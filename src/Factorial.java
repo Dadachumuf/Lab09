@@ -33,9 +33,11 @@ public class Factorial {
     public static void main (String [] Args) throws IllegalArgumentException {
         //************************************************************************************
         //
-        //This comment was added to show that the code was altered prior to the update being pushed to GITHUBkk
+        //This comment was added to show that the code was altered prior to the update being pushed to GITHUB
         //
         //*************************************************************************************
+
+        //This comment was added to show that the project has already been committed, and is being updated now and recommitted.
         int n = 3;
         if (n <= 0) {
             throw new IllegalArgumentException("n must be non-negative as well as non-zero");
